@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Laboratorio5"
+rootProject.name = "SmartHomeSim"
 include(":app")
  
